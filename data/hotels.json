@@ -1,0 +1,317 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "name": "Golden Beach Resort",
+        "category_id": "1",
+        "location": "Cox's Bazar",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y294YmF6YXIlMjBob3RlbHxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Private Beach Access",
+            "Fitness Center",
+            "Sea View Rooms"
+        ],
+        "price": 34
+    },
+    {
+        "_id": "0282e0e56a5c404fbd15261f11c2ac6r",
+        "name": "Hotel Marin Plaza",
+        "category_id": "1",
+        "location": "Cox's Bazar",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1517912181842-e5a9d4701a4e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBiZWQlMjByb29tfGVufDB8fDB8fHww",
+        "rating": 4.5,
+        "rating_person": 25,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 4,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility not availiable",
+        "amenities": [
+            "Wifi",
+            "Air conditioning",
+            "Sea View Rooms"
+        ],
+        "price": 55
+    },
+    {
+        "_id": "0282e0e56a5c404fbd15261f11c2ac6m",
+        "name": "AR Lounge & Pool (r&r + b&b)",
+        "category_id": "1",
+        "location": "Cox's Bazar",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1517912181842-e5a9d4701a4e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjBiZWQlMjByb29tfGVufDB8fDB8fHww",
+        "rating": 4.7,
+        "rating_person": 33,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 4,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Wifi",
+            "Air conditioning",
+            "Sea View Rooms"
+        ],
+        "price": 58
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15441f11c2ab6a",
+        "name": "Sundarbans Riverview Resort",
+        "category_id": "2",
+        "location": "Sundarban",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1521783988139-89397d761dce?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Wifi",
+            "Kitchen",
+            "Natural View Rooms"
+        ],
+        "price": 34
+    },
+    {
+        "_id": "0df2e0e58a5c404fbd15441f11c2ab6a",
+        "name": "Mangrove Oasis Hotel",
+        "category_id": "2",
+        "location": "Sundarban",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://plus.unsplash.com/premium_photo-1661963692705-befe203ba36b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Wifi",
+            "Fitness Center",
+            "Natural View Rooms"
+        ],
+        "price": 34
+    },
+    {
+        "_id": "0df2e0e58a5c404fbd95441f11c2ab6a",
+        "name": "Tiger Bay Retreat & Spa",
+        "category_id": "2",
+        "location": "Sundarban",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1512918580421-b2feee3b85a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Natural View Rooms"
+        ],
+        "price": 34
+    },
+    {
+        "_id": "0df2e0effa5c404fbd95441f11c2ab6a",
+        "name": "Dhaka Grand Plaza Hotel",
+        "category_id": "3",
+        "location": "Dhaka",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://plus.unsplash.com/premium_photo-1661879252375-7c1db1932572?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 54
+    },
+    {
+        "_id": "0df2e0eefa5c404fbd95441f11c2ab6a",
+        "name": "Riverfront Regency Inn",
+        "category_id": "3",
+        "location": "Dhaka",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1549638441-b787d2e11f14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 44
+    },
+    {
+        "_id": "0df2e0effa5c404fdfsd41f11c2ab6a",
+        "name": "Metropolitan Heights Hotel",
+        "category_id": "3",
+        "location": "Dhaka",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1489171078254-c3365d6e359f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 58
+    },
+    {
+        "_id": "0dfgfd0effa5c404fdfsd41f11c2ab6a",
+        "name": "Srimangal Green Retreat",
+        "category_id": "4",
+        "location": "Srimangal",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 58
+    },
+    {
+        "_id": "0dfgfd0effa5c404fdfsd41f33c2ab6a",
+        "name": "Srimangal Green Retreat",
+        "category_id": "4",
+        "location": "Srimangal",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1515362655824-9a74989f318e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 55
+    },
+    {
+        "_id": "0dfgfd0e44da5c404fdfsd41f11c2ab6a",
+        "name": "Tea Garden View Hotel",
+        "category_id": "4",
+        "location": "Srimangal",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://plus.unsplash.com/premium_photo-1670360414903-19e5832f8bc4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 52
+    },
+    {
+        "_id": "0dfgfd0e44da5c404fdfs3241f11c2ab6a",
+        "name": "Lakeside Serenity Resort",
+        "category_id": "5",
+        "location": "Rangamati",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://plus.unsplash.com/premium_photo-1683120852623-143817d6400b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 42
+    },
+    {
+        "_id": "0dfgfd0e44dae4404fdfs3241f11c2ab6a",
+        "name": "Hilltop Vista Hotel",
+        "category_id": "5",
+        "location": "Rangamati",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://plus.unsplash.com/premium_photo-1676320514025-c365ab8289b6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 45
+    },
+    {
+        "_id": "0dfgfd0e44da5c404f23s3241f11c2ab6a",
+        "name": "Rangamati Paradise Retreat",
+        "category_id": "5",
+        "location": "Rangamati",
+        "address": "456 XYZ Road, Cox's Bazar",
+        "img_url": "https://images.unsplash.com/photo-1535312800630-1c173409799a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fGhvdGVsJTIwYmVkJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+        "rating": 4.2,
+        "rating_person": 20,
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "cancellation": "Cancellation fexibility availiable",
+        "amenities": [
+            "Air conditioning",
+            "Fitness Center",
+            "Wifi"
+        ],
+        "price": 47
+    }
+]

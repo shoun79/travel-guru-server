@@ -1,0 +1,57 @@
+[
+    {
+        "_id": 1,
+        "name": "Cox's Bazar",
+        "description": "Cox's Bazar is a famous beach destination in Bangladesh, known for its long sandy beach and the world's longest natural sea beach.",
+        "attractions": [
+            "Laboni Point",
+            "Inani Beach",
+            "Himchari National Park"
+        ],
+        "img": "https://images.unsplash.com/photo-1643308590949-a685ddf101fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y294YmF6YXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "_id": 2,
+        "name": "Sundarban",
+        "description": "The Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site. It is home to the Bengal tiger and diverse wildlife.",
+        "attractions": [
+            "Sundarbans National Park",
+            "Sajnekhali Wildlife Sanctuary",
+            "Dublar Char"
+        ],
+        "img": "https://images.unsplash.com/photo-1549300461-11c5b94e8855?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3VuZGFyYmFufGVufDB8fDB8fHww"
+    },
+    {
+        "_id": 3,
+        "name": "Dhaka",
+        "description": "Dhaka is the capital and largest city of Bangladesh, offering a mix of historical landmarks, modern architecture, and vibrant markets.",
+        "attractions": [
+            "Ahsan Manzil",
+            "Lalbagh Fort",
+            "Jatiyo Sangsad Bhaban"
+        ],
+        "img": "https://images.unsplash.com/photo-1582555599578-5068e6474677?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGhha2F8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "_id": 4,
+        "name": "Srimangal",
+        "description": "Known as the 'Tea Capital of Bangladesh,' Srimangal is famous for its tea gardens, lush green landscapes, and diverse wildlife.",
+        "attractions": [
+            "Lawachara National Park",
+            "Tea Gardens",
+            "Baikka Beel Wetland Sanctuary"
+        ],
+        "img": "https://images.unsplash.com/photo-1677950275757-0460cab1df08?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3JpbWFuZ2FsfGVufDB8fDB8fHww"
+    },
+    {
+        "_id": 5,
+        "name": "Rangamati",
+        "description": "Rangamati is a picturesque hill district with stunning landscapes, lakes, and indigenous communities. It is a perfect destination for nature lovers.",
+        "attractions": [
+            "Kaptai Lake",
+            "Hanging Bridge",
+            "Shuvolong Waterfall"
+        ],
+        "img": "https://images.unsplash.com/photo-1576419326170-74f6f9451993?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmFuZ2FtYXRpfGVufDB8fDB8fHww"
+    }
+]
